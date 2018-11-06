@@ -12,7 +12,7 @@ This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurren
 2. Fork [CryptoNote repository](https://github.com/cryptonotefoundation/cryptonote)
 3. Buy one or two Ubuntu-based dedicated servers (at least 2Gb of RAM) for seed nodes.
 
-
+ANUUUSSSS FAACCEEE
 
 ### First step. Give a name to your coin
 
